@@ -1,0 +1,23 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "typescript a point knowledge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liweilijie/ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liweilijie/ts/issues"
+  },
+  "homepage": "https://github.com/liweilijie/ts#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
